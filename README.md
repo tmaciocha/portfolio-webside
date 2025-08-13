@@ -1,23 +1,32 @@
-# portfolio-webside
+# Portfolio Website
 
-portfolio-website/
-│
-├── config.toml  (Hugo config file)
-├── content/
-│   ├── _index.md
-│   ├── about.md
-│   ├── projects.md
-│   └── contact.md
-└── static/
-    └── images/
-        └── your-screenshots-here.png
+This repository will contain my personal DevOps portfolio website showcasting my projects and skills.
+
+---
+
+## Current Status
+- No website deployed yet
+- Planning phase - deciding on  a stack and design
+
+---
+
+## Planned Work
+- Buid statis HTML/CSS website with Hugo
+- Host on private hosting or Github Pages
+- Sections to include:
+  - **About me**
+  - **Projects** (links to Github repos)
+  - **Contact**
+- Add responsive design for mobile
+- Later: add blog functionality if needed
+
+---
+
+## Hosting
+The site will be publicity available once deployed.
+
+---
 
 
-
-Example README file:
-
-# About Me
-
-I'm a DevOps enthusiast building my skillset in Linux, cloud, automation, monitoring and platform engineering.
-
-This site presents my personal portfolio of projects built during my learning journey.
+## Notes 
+Initial version will focus on sibplicity and clarity, later iterations can add animations and blog posts.
